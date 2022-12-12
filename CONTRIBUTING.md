@@ -60,11 +60,8 @@ It will create a new branch with name Branch_Name and switch to that branch
 ## Step 5 : Commit
  🎀🎀Before submitting an issue please find the correct folder where your program will go , You can discuss about it in the discussion.
 - To commit give a descriptive message for the convenience of reveiwer by: `$ git commit -m "<commit message>" `
-## Step 6 : Work Remotely
 
-- Now you are ready to your work to the remote repository.
-
-## Step 7 : Pull Request
+## Step 6 : Pull Request
 - Go to your repository in browser and click on compare and pull requests. Then add a title and description(also screenshots) to your pull request that explains your contribution.
 
 - Voila! Your Pull Request has been submitted and will be reviewed and merged.🥳
